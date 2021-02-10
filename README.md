@@ -7,4 +7,6 @@
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: yashdixit921@gmail.com
 
+<img align="right" alt="GIF" src="https://github.com/rohitm17/rohitm17/blob/main/coder.gif" width="500"/>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=yash921&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)

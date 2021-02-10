@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Shell Scripting
-- 👯 I’m looking to collaborate on Node js
+- 🔭 I’m currently working on Node js(Express)
+- 🌱 I’m currently learning SQL
+- 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: yashdixit921@gmail.com
 <!---  - 🤔 I’m looking for help with ...just --->

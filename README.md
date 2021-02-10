@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Rohit Mittal
+### Hi there 👋 I'm Yash Dixit
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-YASH_DIXIT-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash921/)](https://www.linkedin.com/in/yash921/)

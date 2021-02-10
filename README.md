@@ -7,3 +7,4 @@
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: yashdixit921@gmail.com
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=yash921&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)

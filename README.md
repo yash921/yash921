@@ -12,9 +12,9 @@
 
 
 
-- 🔭 I’m currently working on Node js(Express)
+- 🔭 I’m currently working on Devops
 - 🌱 I’m currently learning Mulesoft
-- 👯 I’m looking to collaborate on Mulesoft
+- 👯 I’m looking to collaborate on Mulesoft and Devops
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: yashdixit921@gmail.com
 <!---  - 🤔 I’m looking for help with ...just --->

@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Devops
 - 🌱 I’m currently learning Mulesoft
-- 👯 I’m looking to collaborate on Mulesoft and Devops
+- 👯 I’m looking to collaborate on Mulesoft or Devops
 - 💬 Ask me about Anything you want to discuss
 - 📫 How to reach me: yashdixit921@gmail.com
 <!---  - 🤔 I’m looking for help with ...just --->
